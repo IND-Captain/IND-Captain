@@ -1,112 +1,81 @@
-<h1 align="center">Hi 👋, I'm Jinnaram Uttej</h1>
-<h3 align="center">Student Developer | Malla Reddy University</h3>
+<!-- Header -->
+<div align="center">
 
-<p align="center">
-Building impactful software using modern web technologies and AI.
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=header&fontSize=0" />
 
----
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Uttej+%F0%9F%91%8B;Full+Stack+Developer;AI+%2B+Web+%3D+%E2%9D%A4%EF%B8%8F;Always+building+something." alt="Typing SVG" />
+</a>
 
-## 👨‍💻 About Me
+<br/>
+<sub>First-year CS student @ Malla Reddy University · Building things I wish existed</sub>
 
-🎓 First-year student at **Malla Reddy University**
-
-💡 I enjoy building real-world platforms that combine **web development and intelligent systems**
-
-🚀 Currently focused on:
-- Full Stack Development with **React & Next.js**
-- Building **AI-powered platforms**
-- Learning scalable backend systems
+</div>
 
 ---
 
-## 🚀 Current Projects
+## A bit about me
 
-### 🧠 Cognify
-An intelligent learning platform that analyzes students’ mistakes and automatically generates personalized follow-up practice questions.
+I'm a first-year student who got tired of waiting to "be ready" — so I just started building. Right now I'm deep into full-stack development and figuring out how to make AI actually useful in real products.
 
-Goal: Build a **smart adaptive learning system** that improves study efficiency.
+I work mostly with **React, Next.js, Python, and Flask**, and I'm currently obsessed with making adaptive learning systems that don't feel robotic.
 
----
-
-### 🩸 Blood Donor Platform
-A web platform designed to help people quickly **find blood donors during emergencies** based on blood group and location.
+When I'm not coding I'm probably thinking about the next thing to build.
 
 ---
 
-### 🧠 Parkinson's Disease Detection
-A machine learning based project designed to **detect Parkinson's disease using medical data analysis**.
+## 🚧 What I'm working on
 
-The system analyzes patient data to help support **early diagnosis and awareness**.
+**[Cognify](https://github.com/IND-Captain)** — a learning platform that watches where students go wrong and generates targeted follow-up questions. Think of it as a study partner that actually pays attention.
 
----
+**Blood Donor Platform** — find donors fast by blood group + location. Built for emergencies, so speed is everything.
 
-### 🌾 Gramodaya – Smart Village Platform
-A platform aimed at supporting **digital village development** by connecting communities with services, information, and opportunities.
+**Parkinson's Detection (ML)** — using patient data to support early diagnosis. My first real foray into healthcare ML.
 
----
-
-# 🛠 Tech Stack
-
-### Frontend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,js,typescript" />
-</p>
-
-### Backend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,flask,nodejs" />
-</p>
-
-### Databases
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,supabase" />
-</p>
-
-### Tools & Platforms
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode" />
-</p>
+**Gramodaya** — a platform connecting rural communities to digital services and information. Meaningful problem, underserved space.
 
 ---
 
-# 📊 GitHub Stats
+## 🛠 Stack
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=IND-Captain&show_icons=true&theme=tokyonight" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IND-Captain&layout=compact&theme=tokyonight" height="170"/>
-</p>
+<div align="center">
 
----
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,js,html,css&theme=dark" />
 
-# 🔥 GitHub Streak
+<br/><br/>**Backend & DB**<br/>
+<img src="https://skillicons.dev/icons?i=python,flask,nodejs,mysql,supabase&theme=dark" />
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=IND-Captain&theme=tokyonight" />
-</p>
+<br/><br/>**Tools**<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode&theme=dark" />
 
----
-
-# 📚 Currently Learning
-
-⚡ Advanced **Next.js architecture**
-
-⚡ AI integration in **web applications**
-
-⚡ Building scalable **full stack systems**
+</div>
 
 ---
 
-# 📫 Contact
+## 📊 Stats
 
-📧 Email: **jinnaramuttej@gmail.com**
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IND-Captain&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="160"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IND-Captain&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IND-Captain&theme=tokyonight&hide_border=true" />
+</div>
 
 ---
 
-<p align="center">
-Always learning. Always building.
-</p>
+## 📬 Reach me
+
+I'm open to collabs, feedback, or just a good conversation about something you're building.
+
+**jinnaramuttej@gmail.com**
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=80&section=footer" />
+</div>
