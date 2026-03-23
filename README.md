@@ -120,13 +120,13 @@ Full-stack Flask app for real-time blood donor discovery by blood group + locati
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=jinnaramuttej&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+<img src="https://streak-stats.demolab.com/?user=jinnaramuttej&theme=github-dark-blue&hide_border=true" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=jinnaramuttej&theme=gitdimmed&no-frame=true&row=1&column=7&margin-w=4" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jinnaramuttej&theme=github-compact&hide_border=true&area=true&color=58A6FF&line=58A6FF&point=ffffff" />
 
 </div>
 
