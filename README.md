@@ -1,18 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:0a1f3d,100:0d1117&height=160&text=Jinnaram%20Uttej&fontSize=42&fontColor=ffffff&fontAlignY=45&desc=CS%20%C2%B7%20Data%20Science%20%C2%B7%20Malla%20Reddy%20University&descAlignY=68&descSize=15&descColor=58A6FF" width="100%" />
-
-</div>
-
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a1f3d,100:0d1117&height=180&section=header&text=Jinnaram%20Uttej&fontSize=44&fontColor=ffffff&fontAlignY=50&fontAlign=50&desc=CS%20%C2%B7%20Data%20Science%20%C2%B7%20Malla%20Reddy%20University&descAlignY=70&descSize=15&descColor=58A6FF&animation=fadeIn" width="100%" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=680&lines=Founder+of+Cognify+%E2%80%94+AI+exam+prep+for+JEE+%2F+NEET+%2F+BITSAT;Built+Arogya+%E2%80%94+a+full+digital+health+OS+with+Firebase;1st+Yr+CS+%7C+Data+Science+%7C+5+shipped+products;Next.js+%C2%B7+TypeScript+%C2%B7+Firebase+%C2%B7+Groq+%C2%B7+XGBoost)](https://git.io/typing-svg)
 
-</div>
-
 <br/>
-
-<div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-jinnaramuttej%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=161b22)](mailto:jinnaramuttej@gmail.com)
 &nbsp;
@@ -133,21 +125,21 @@ Full-stack Flask app for real-time blood donor discovery by blood group + locati
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jinnaramuttej&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true&custom_title=Uttej's+Stats&count_private=true" height="155" />
+![Uttej's Stats](https://github-readme-stats.vercel.app/api?username=jinnaramuttej&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true&custom_title=Uttej's+Stats&count_private=true&cache_seconds=1800)
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinnaramuttej&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="155" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jinnaramuttej&layout=compact&theme=github_dark&hide_border=true&langs_count=6&cache_seconds=1800)
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=jinnaramuttej&theme=github-dark-blue&hide_border=true" />
+![GitHub Streak](https://streak-stats.demolab.com/?user=jinnaramuttej&theme=github-dark-blue&hide_border=true)
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jinnaramuttej&theme=github-compact&hide_border=true&area=true&color=58A6FF&line=58A6FF&point=ffffff" />
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jinnaramuttej&theme=github-compact&hide_border=true&area=true&color=58A6FF&line=58A6FF&point=ffffff)
 
 </div>
 
@@ -159,7 +151,6 @@ Full-stack Flask app for real-time blood donor discovery by blood group + locati
 <br/>
 <sub><a href="mailto:jinnaramuttej@gmail.com">jinnaramuttej@gmail.com</a></sub>
 <br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:0a1f3d,100:0d1117&height=40&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a1f3d,100:0d1117&height=80&section=footer" width="100%" />
 
 </div>
