@@ -1,18 +1,6 @@
 <div align="center">
 
-<svg width="100%" viewBox="0 0 800 160" xmlns="http://www.w3.org/2000/svg" style="max-width:900px">
-  <rect width="800" height="160" fill="#0d1117"/>
-  <circle cx="60" cy="30" r="90" fill="none" stroke="#58A6FF" stroke-width="0.6" opacity="0.2"/>
-  <circle cx="740" cy="130" r="110" fill="none" stroke="#58A6FF" stroke-width="0.6" opacity="0.2"/>
-  <circle cx="400" cy="80" r="140" fill="none" stroke="#1f6feb" stroke-width="0.4" opacity="0.15"/>
-  <circle cx="200" cy="140" r="60" fill="none" stroke="#58A6FF" stroke-width="0.4" opacity="0.12"/>
-  <circle cx="650" cy="20" r="70" fill="none" stroke="#1f6feb" stroke-width="0.4" opacity="0.12"/>
-  <line x1="0" y1="110" x2="800" y2="40" stroke="#58A6FF" stroke-width="0.3" opacity="0.1"/>
-  <line x1="0" y1="60" x2="800" y2="100" stroke="#1f6feb" stroke-width="0.3" opacity="0.1"/>
-  <line x1="100" y1="0" x2="700" y2="160" stroke="#58A6FF" stroke-width="0.2" opacity="0.08"/>
-  <text x="400" y="78" font-family="'Segoe UI', Arial, sans-serif" font-size="36" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="-0.5">Jinnaram Uttej</text>
-  <text x="400" y="108" font-family="'Segoe UI', Arial, sans-serif" font-size="13" fill="#58A6FF" text-anchor="middle" letter-spacing="0.5">CS  ·  Data Science  ·  Malla Reddy University</text>
-</svg>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:0a1f3d,100:0d1117&height=160&text=Jinnaram%20Uttej&fontSize=42&fontColor=ffffff&fontAlignY=45&desc=CS%20%C2%B7%20Data%20Science%20%C2%B7%20Malla%20Reddy%20University&descAlignY=68&descSize=15&descColor=58A6FF" width="100%" />
 
 </div>
 
@@ -167,14 +155,11 @@ Full-stack Flask app for real-time blood donor discovery by blood group + locati
 
 <div align="center">
 
-<svg width="100%" viewBox="0 0 800 60" xmlns="http://www.w3.org/2000/svg" style="max-width:900px; margin-bottom: 8px;">
-  <rect width="800" height="60" fill="#0d1117"/>
-  <circle cx="100" cy="30" r="50" fill="none" stroke="#58A6FF" stroke-width="0.5" opacity="0.15"/>
-  <circle cx="700" cy="30" r="50" fill="none" stroke="#58A6FF" stroke-width="0.5" opacity="0.15"/>
-  <circle cx="400" cy="30" r="70" fill="none" stroke="#1f6feb" stroke-width="0.4" opacity="0.1"/>
-  <line x1="0" y1="45" x2="800" y2="15" stroke="#58A6FF" stroke-width="0.3" opacity="0.1"/>
-  <text x="400" y="26" font-family="'Segoe UI', Arial, sans-serif" font-size="11" fill="#8b949e" text-anchor="middle" letter-spacing="2">BUILDING COGNIFY</text>
-  <text x="400" y="44" font-family="'Segoe UI', Arial, sans-serif" font-size="11" fill="#58A6FF" text-anchor="middle">jinnaramuttej@gmail.com</text>
-</svg>
+<sub>Building Cognify. Open to hackathons, collabs, and problems worth solving.</sub>
+<br/>
+<sub><a href="mailto:jinnaramuttej@gmail.com">jinnaramuttej@gmail.com</a></sub>
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:0a1f3d,100:0d1117&height=40&section=footer" width="100%" />
 
 </div>
