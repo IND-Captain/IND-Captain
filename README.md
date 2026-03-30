@@ -123,13 +123,7 @@ Full-stack Flask app for real-time blood donor discovery by blood group + locati
 
 ## 📊 GitHub Stats
 
-<div align="center">
 
-![Uttej's Stats](https://github-readme-stats.vercel.app/api?username=jinnaramuttej&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true&custom_title=Uttej's+Stats&count_private=true&cache_seconds=1800)
-&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jinnaramuttej&layout=compact&theme=github_dark&hide_border=true&langs_count=6&cache_seconds=1800)
-
-</div>
 
 <div align="center">
 
